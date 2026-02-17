@@ -13,6 +13,7 @@ public class SuperconsChild  extends SuperconsParent
 		SuperconsChild obj= new SuperconsChild();
 		
 		
+		
 
 	}
 
